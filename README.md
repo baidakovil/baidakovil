@@ -5,5 +5,4 @@
 
 [Telegram]: https://t.me/baidakovil
 [e-mail]: mailto:baidakovil@gmail.com
-[linkedin]: 
 [GreenGrassBot]: https://github.com/baidakovil/GreenGrassBot
