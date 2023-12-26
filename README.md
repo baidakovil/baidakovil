@@ -1,6 +1,6 @@
 ### Hi there 🌿
 🦚 I’m currently working on .......... [GreenGrassBot] and some Kaggle projects.  
-🕊 How to reach me .................... [Telegram] or [e-mail] or linkedin
+🕊 How to reach me .................... [Telegram] or [e-mail] or linkedin  
 🦜 Pronouns my surname............. _bai-da-kˈof_
 
 [Telegram]: https://t.me/baidakovil
